@@ -1,0 +1,9 @@
+name: BasicCommand
+version: ${project.version}
+main: me.zahneins.Zahneins
+api-version: 1.13
+authors: [ZahnEins]
+commands:
+  Test:
+    description: GGWP
+    usage: /<command>
